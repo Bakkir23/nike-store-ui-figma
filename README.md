@@ -15,4 +15,3 @@ Modern e-commerce mobile design focusing on product discovery, clear hierarchy, 
 
 ## 🧩 Tools Used
 - **Figma** (components, auto-layout)
-- Iconography, consistent spacing + typography
